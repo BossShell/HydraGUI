@@ -37,3 +37,6 @@ Makefile*
 # QtCtreator CMake
 CMakeLists.txt.user*
 
+HydraGUI/.qmake.stash
+HydraGUI/HydraGUI
+
